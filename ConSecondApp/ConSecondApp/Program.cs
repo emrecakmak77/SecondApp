@@ -11,7 +11,7 @@ namespace ConSecondApp
         static void Main(string[] args)
         {
             //Selam ben Yazdım
-            //hubele mubele
+            //Hebele hubele naber kanka
             
         }
     }
